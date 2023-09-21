@@ -3,3 +3,4 @@
   <img src="https://img.shields.io/badge/GoogleDocs-white,red?logo=GoogleDocs&logoColor=Yellow">
 </a>
 </div>
+ссылка на гугл документы номер два https://docs.google.com/document/d/1ewJsKbbD9-xueUsyZeFdnRk5POBHGm2MbLuyGJqItLk/edit?usp=drivesdk
