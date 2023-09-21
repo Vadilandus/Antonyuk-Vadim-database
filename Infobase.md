@@ -4,3 +4,6 @@
 </a>
 </div>
 ссылка на гугл документы номер два https://docs.google.com/document/d/1ewJsKbbD9-xueUsyZeFdnRk5POBHGm2MbLuyGJqItLk/edit?usp=drivesdk
+
+ссылка на гугл документы, 21.09.23 с пары
+https://docs.google.com/document/d/12y5CLCWqxLju44r0sS4M2jYQ8hmab-R31cmsz6FQzkU/edit?usp=drivesdk
