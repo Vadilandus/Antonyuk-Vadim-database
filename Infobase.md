@@ -7,3 +7,5 @@
 
 ссылка на гугл документы, 21.09.23 с пары
 https://docs.google.com/document/d/12y5CLCWqxLju44r0sS4M2jYQ8hmab-R31cmsz6FQzkU/edit?usp=drivesdk
+ССылка на гугл документ с изображениями домашней работы для октября: 
+https://docs.google.com/document/d/1TztDy5aPj-KyACf4KCixJfqXrKWU_d-NmZg2cuScHw4/edit?usp=sharing
