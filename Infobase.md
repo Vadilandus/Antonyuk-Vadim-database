@@ -12,4 +12,6 @@ https://docs.google.com/document/d/1TztDy5aPj-KyACf4KCixJfqXrKWU_d-NmZg2cuScHw4/
 ссылка на конспекты 30.10.23
 https://docs.google.com/document/d/15Y8XanPupefO5YM2hdClb_9xWArw3aoIxWEAzCW9b3E/edit?usp=sharing
 
+
+<p></p>
 <div>https://drive.google.com/drive/folders/1JNTPVkjYdrCG7u7vVUiAOdwUfP9e-gff?usp=sharing</div>
