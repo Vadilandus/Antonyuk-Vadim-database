@@ -224,6 +224,56 @@ def numberofquestion (number):
             print('YES')
         else:
             print('NO')
+    if number == 35:
+        a = int(input(''))
+        b = int(input(''))
+        c = (input(''))
+
+        if c == '+':
+            print(a+b)
+        elif c == '-':
+            print (a-b)
+        elif c == '*':
+            print(a*b)
+        elif c == '/':
+            if b != 0:
+                print(a/b)
+            else:
+                print('На 0 делить нельзя!')
+        else:
+            print('Неверная операция!')
+
+
+    if number == 36:
+        n = int(input('Zum'))
+        k = int(input('Flash'))
+        if n > k:
+            print('NO')
+        elif n < k:
+            print('YES')
+        else:
+            print('Dont know')
+    if number == 37:
+        a = int(input())
+        b = int(input())
+        c = int(input())
+        if (a == b and b != c and a != c) or (a == c and a != b and c != b) or (b == c and b != a and c != a):
+            print('Равнобедренный')
+        elif a == b and a == c and c == b:
+            print('Равносторонний')
+        else:
+            print('Разносторонний')
+    if number == 38:
+        a = int(input())
+        b = int(input())
+        c = int(input())
+        if (a > b and a < c) or (a > c and a < b):
+            print(a)
+        elif (b > a and b < c) or (b > c and b < a):
+            print(b)
+        else:
+            print(c)
+
 
 numbername = int(input('Which of ...?'))
 numberofquestion(numbername)
