@@ -273,6 +273,99 @@ def numberofquestion (number):
             print(b)
         else:
             print(c)
+    if number == 39:
+        a = int(input())
+        if a == 2:
+            print(28)
+        elif a == 1 or a == 3 or a == 5 or a >=7 and a <= 8 or a == 10 or a == 12:
+            print(31)
+        else:
+            print(30)
+    if number == 40:
+        a = int(input())
+        if a < 60:
+            print('Light ves')
+        elif a >= 60 and a < 64:
+            print('First polycrednii')
+        elif a >= 64 and a < 69:
+            print('polycrednii')
+    if number == 41:
+        a = input()
+        b = input()
+        if a == 'красный' and b =='синий' or a == 'синий' and b == 'красный':
+            print('фиолетовый')
+        elif a == 'красный' and b == 'желтый' or a == 'желтый' and b == 'красный':
+            print('оранжевый')
+        elif a == 'синий' and b == 'желтый' or a == 'желтый' and b == 'синий':
+            print('зеленый')
+        else:
+            print('неверный цвет')
+    if number == 42:
+        a = int(input())
+        if a == 00:
+            print('green')
+        if a >= 11 and a <= 1010 and a % 2 == 0:
+            print('blck')
+        elif a >= 11 and a <= 1010 and a % 2 != 0:
+            print('red')
+        elif a >= 1111 and a <= 1818 and a % 2 != 0:
+            print('black')
+        elif a >= 1111 and a <= 1818 and a % 2 == 0:
+            print('red')
+        elif a >= 1919 and a <= 2828 and a % 2 != 0:
+            print('red')
+        elif a >= 1919 and a <= 2828 and a % 2 == 0:
+            print('black')
+        elif a >= 2929 and a <= 3636 and a % 2 != 0:
+            print('black')
+        elif a >= 2929 and a <= 3636 and a % 2 == 0:
+            print('red')
+    if number == 43:
+        a = int(input())
+        b = int(input())
+        print('S =', a*0.5*b)
+    if number == 44:
+        s = float(input())
+        v1 = float(input())
+        v2 = float(input())
+        print(s / (v1+v2))
+    if number == 45:
+        a = float(input())
+        print(1 / a)
+    if number == 46:
+        a = float(input())
+        print((5/9)*(a - 32))
+    if number == 47:
+        n = int(input())
+        if n > 2:
+            print(2*10.5 + (n-2)*4)
+        else:
+            print(n*10.5)
+    if number == 48:
+        a = float(input())
+        print(int(a * 10 % 10))
+    if number == 49:
+        a = float(input())
+        print((a * 10 % 10)/10)
+    if number == 50:
+        a = 5
+        c = 0
+        b = ''
+        d = 0
+        while a > 0:
+            n = int(input())
+            a = a - 1
+            d = n
+            if n > c:
+                c = n
+            if b == '':
+                b = n
+            if b > d:
+                b = n
+
+        print (c,b)
+    if number == 51:
+        
 
 
 numbername = int(input('Which of ...?'))
